@@ -69,6 +69,10 @@ cartoonify-image-generator/
 - **Flask**: For enabling the creation of a seamless web application.
 
 ---
+## App GUI
+
+![App Screenshot](Screenshot 2025-01-02 220547.png)
+
 ## uploaded image
 ![App Screenshot](static/uploads/test.jpg)
 
