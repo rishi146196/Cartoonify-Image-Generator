@@ -70,8 +70,7 @@ cartoonify-image-generator/
 
 ---
 ## App GUI
-
-![App Screenshot](Screenshot 2025-01-02 220547.png)
+![Alt text](Screenshot 2025-01-02 220547.png "App GUI")
 
 ## uploaded image
 ![App Screenshot](static/uploads/test.jpg)
